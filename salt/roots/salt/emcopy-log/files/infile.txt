@@ -1,0 +1,921 @@
+2014-07-21T17:32:54.684+0000 ixllvmva49 TH022 : 18:32:53 : E:\Shares\Print Production\Santander\Staff folders\Ian\ Ian\Pictures\iPhoto Library\Thumbnails\2009\17 Jun 2009\DSC00133.jpg
+2014-07-21T17:32:54.684+0000 ixllvmva49 TH022 : 18:32:53 : E:\Shares\Print Production\Santander\Staff folders\Ian\ Ian\Pictures\iPhoto Library\Thumbnails\2009\17 Jun 2009\DSC00133.jpg
+
+
+2014-07-21T17:32:54.684+0000 ixllvmva49 TH022 : 18:32:53 : E:\Shares\Print Production\Santander\Staff folders\Ian\ Ian\Pictures\iPhoto Library\Thumbnails\2009\17 Jun 2009\DSC00133.jpg
+2014-07-21T17:32:54.684+0000 ixllvmva49 TH022 : 18:32:53 : E:\Shares\Print Production\Santander\Staff folders\Ian\ Ian\Pictures\iPhoto Library\Thumbnails\2009\17 Jun 2009\DSC00133.jpg
+2014-07-21T17:32:54.684+0000 ixllvmva49 TH022 : 18:32:53 : E:\Shares\Print Production\Santander\Staff folders\Ian\ Ian\Pictures\iPhoto Library\Thumbnails\2009\17 Jun 2009\DSC00133.jpg
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+TH022 : 10:00:31 : E:\Shares\Clients\.DS_Store
+TH029 : 10:00:31 : E:\Shares\Digital Freelance Forecasts\.DS_Store
+TH034 : 10:00:31 : E:\Shares\Broadcast\.DS_Store
+TH006 : 10:00:31 : E:\Shares\Clients\FOUNDED
+TH005 : 10:00:31 : \\gswlpzds02\IXLL\ixllvmva49\Broadcast\XLS UK Shoot ballpark costs200614.doc -> File deleted.
+TH006 : 10:00:32 : E:\Shares\Clients\.TemporaryItems\folders.1239543734
+TH006 : 10:00:32 : E:\Shares\Clients\.TemporaryItems\folders.1769607645
+TH006 : 10:00:33 : E:\Shares\Clients\.TemporaryItems\folders.746362116
+TH006 : 10:00:33 : E:\Shares\Clients\.TemporaryItems\folders.808820688
+TH032 : 10:00:34 : E:\Shares\Digital\.DS_Store
+TH014 : 10:00:34 : E:\Shares\Fontwise\dtp464.hogarthww.prv
+TH014 : 10:00:34 : E:\Shares\Fontwise\hgslapmb-h02369
+TH040 : 10:00:34 : E:\Shares\HR\.DS_Store
+TH020 : 10:00:34 : E:\Shares\HR\Fixed term contracts
+TH014 : 10:00:47 : E:\Shares\Fontwise\dtp-h00978\1507-1457
+TH014 : 10:00:48 : E:\Shares\Fontwise\dtp-h00978\1507-1639
+TH020 : 10:00:48 : \\gswlpzds02\IXLL\ixllvmva49\HR\.TemporaryItems\folders.187574089\TemporaryItems\ -> Directory removed.
+TH011 : 10:00:49 : ERROR (5) : \\gswlpzds02\IXLL\ixllvmva49\Digital\.TemporaryItems\folders.1307435186\Cleanup At Startup\.BAH.bWoXf\IMAGES FOR WEBSITE\ -> Unable to set attributes on directory, Retrying in 5 seconds...
+TH010 : 10:00:49 : E:\Shares\Clients\.TemporaryItems\folders.106187572\TemporaryItems\Volvo-Engaging with Greyworks_UK.pptx
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+TH022 : 10:00:31 : E:\Shares\Clients\.DS_Store
+TH029 : 10:00:31 : E:\Shares\Digital Freelance Forecasts\.DS_Store
+TH034 : 10:00:31 : E:\Shares\Broadcast\.DS_Store
+TH006 : 10:00:31 : E:\Shares\Clients\FOUNDED
+TH005 : 10:00:31 : \\gswlpzds02\IXLL\ixllvmva49\Broadcast\XLS UK Shoot ballpark costs200614.doc -> File deleted.
+TH006 : 10:00:32 : E:\Shares\Clients\.TemporaryItems\folders.1239543734
+TH006 : 10:00:32 : E:\Shares\Clients\.TemporaryItems\folders.1769607645
+TH006 : 10:00:33 : E:\Shares\Clients\.TemporaryItems\folders.746362116
+TH006 : 10:00:33 : E:\Shares\Clients\.TemporaryItems\folders.808820688
+TH032 : 10:00:34 : E:\Shares\Digital\.DS_Store
+TH014 : 10:00:34 : E:\Shares\Fontwise\dtp464.hogarthww.prv
+TH014 : 10:00:34 : E:\Shares\Fontwise\hgslapmb-h02369
+TH040 : 10:00:34 : E:\Shares\HR\.DS_Store
+TH020 : 10:00:34 : E:\Shares\HR\Fixed term contracts
+TH014 : 10:00:47 : E:\Shares\Fontwise\dtp-h00978\1507-1457
+TH014 : 10:00:48 : E:\Shares\Fontwise\dtp-h00978\1507-1639
+TH020 : 10:00:48 : \\gswlpzds02\IXLL\ixllvmva49\HR\.TemporaryItems\folders.187574089\TemporaryItems\ -> Directory removed.
+TH011 : 10:00:49 : ERROR (5) : \\gswlpzds02\IXLL\ixllvmva49\Digital\.TemporaryItems\folders.1307435186\Cleanup At Startup\.BAH.bWoXf\IMAGES FOR WEBSITE\ -> Unable to set attributes on directory, Retrying in 5 seconds...
+TH010 : 10:00:49 : E:\Shares\Clients\.TemporaryItems\folders.106187572\TemporaryItems\Volvo-Engaging with Greyworks_UK.pptx
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+TH022 : 10:00:31 : E:\Shares\Clients\.DS_Store
+TH029 : 10:00:31 : E:\Shares\Digital Freelance Forecasts\.DS_Store
+TH034 : 10:00:31 : E:\Shares\Broadcast\.DS_Store
+TH006 : 10:00:31 : E:\Shares\Clients\FOUNDED
+TH005 : 10:00:31 : \\gswlpzds02\IXLL\ixllvmva49\Broadcast\XLS UK Shoot ballpark costs200614.doc -> File deleted.
+TH006 : 10:00:32 : E:\Shares\Clients\.TemporaryItems\folders.1239543734
+TH006 : 10:00:32 : E:\Shares\Clients\.TemporaryItems\folders.1769607645
+TH006 : 10:00:33 : E:\Shares\Clients\.TemporaryItems\folders.746362116
+TH006 : 10:00:33 : E:\Shares\Clients\.TemporaryItems\folders.808820688
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Date                        : 22/07/2014 10:00:31
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+EMCOPY64 04.14
+
+	Copyright (C) 1999-2012, All Rights Reserved,
+	by EMC Corporation, Hopkinton MA.
+
+
+System information
+==================
+
+Client OS                   : Microsoft  (build 9200)
+
+Server SRC                  : IXLLVMVA49      6.3 
+Server DEST                 : GSWLPZDS02      4.9 Panzura CloudController
+
+Command information
+===================
+
+
+Date                        : 22/07/2014 10:00:31
+Source path                 : E:\Shares\
+Desti. path                 : \\gswlpzds02\IXLL\ixllvmva49\
+Files and Dirs filter(s)    : * 
+Directory options           : /s /purge 
+List/Modify/Create options  : /d 
+Security options:           : 
+Retry options               : /r:3 /w:5 /c 
+Log file                    : /log:C:\Program Files\EMCopy\logs\report.log
+
+
+Processing the copy from E:\Shares\ to \\gswlpzds02\IXLL\ixllvmva49\ ...
+
+TH022 : 10:00:31 : E:\Shares\Clients\.DS_Store
+TH022 : 10:00:31 : E:\Shares\Clients\.DS_Store
+TH029 : 10:00:31 : E:\Shares\Digital Freelance Forecasts\.DS_Store
+TH034 : 10:00:31 : E:\Shares\Broadcast\.DS_Store
+TH006 : 10:00:31 : E:\Shares\Clients\FOUNDED
+TH005 : 10:00:31 : \\gswlpzds02\IXLL\ixllvmva49\Broadcast\XLS UK Shoot ballpark costs200614.doc -> File deleted.
+TH022 : 10:00:31 : E:\Shares\Clients\.DS_Store
+TH029 : 10:00:31 : E:\Shares\Digital Freelance Forecasts\.DS_Store
+TH034 : 10:00:31 : E:\Shares\Broadcast\.DS_Store
+TH006 : 10:00:31 : E:\Shares\Clients\FOUNDED
+TH005 : 10:00:31 : \\gswlpzds02\IXLL\ixllvmva49\Broadcast\XLS UK Shoot ballpark costs200614.doc -> File deleted.
+TH022 : 10:00:31 : E:\Shares\Clients\.DS_Store
+TH029 : 10:00:31 : E:\Shares\Digital Freelance Forecasts\.DS_Store
+TH034 : 10:00:31 : E:\Shares\Broadcast\.DS_Store
+TH006 : 10:00:31 : E:\Shares\Clients\FOUNDED
+TH005 : 10:00:31 : \\gswlpzds02\IXLL\ixllvmva49\Broadcast\XLS UK Shoot ballpark costs200614.doc -> File deleted.

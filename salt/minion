@@ -1,0 +1,13 @@
+#Standard masterless salt minion set-up
+master: localhost
+file_client: local
+file_roots:
+  base:
+    - /srv/salt
+
+mysql.host: 'localhost'
+mysql.port: 3306
+mysql.user: 'root'
+mysql.pass: ''
+mysql.unix_socket: '/var/run/mysqld/mysqld.sock'
+mysql.charset: 'utf8'
