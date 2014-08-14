@@ -1,2 +1,2 @@
 database_name:
-  - domesday
+  domesday
