@@ -48,3 +48,8 @@ django:
     - name: django == 1.6.5
     - require:
       - pkg: python-pip
+
+python-django:
+  pkg.installed:
+    - require:
+      - pip: django
