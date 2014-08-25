@@ -1,7 +1,7 @@
 {% set database_name = salt['pillar.get']('database_name') %}
 
 include:
-  - requirements
+  - .requirements
 
 create_db:
   module.run:
@@ -9,7 +9,7 @@ create_db:
     - m_name: {{ database_name }}
     - character_set: "utf8"
     - require:
-      - sls: requirements
+      - sls: django.requirements
 
 create_user:
   module.run:
@@ -17,7 +17,7 @@ create_user:
     - user: jangow
     - password: djingle
     - require: 
-      - sls: requirements
+      - sls: django.requirements
 
 mysql.grant_add:
   module.run:
@@ -25,7 +25,7 @@ mysql.grant_add:
     - database: "{{ database_name }}.*"
     - user: 'jangow'
     - require: 
-      - sls: requirements
+      - sls: django.requirements
       - module: create_user
       - module: create_db
  
@@ -33,9 +33,9 @@ django:
   pip.installed:
     - name: django == 1.6.5
     - require:
-      - sls: requirements
+      - sls: django.requirements
 
 python-django:
   pkg.installed:
     - require:
-      - sls: requirements
+      - sls: django.requirements

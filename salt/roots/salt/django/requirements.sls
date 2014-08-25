@@ -1,8 +1,8 @@
-{% 
+{# 
 
     Required modules for django
 
-%}
+#}
 
 python-pip:
   pkg.installed
