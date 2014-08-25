@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv":{"guestpath":"/srv","hostpath":"C:/Users/Josh/Desktop/playingGod/django_god/playing_django/salt/roots","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Josh/Desktop/playingGod/django_god/playing_django","disabled":false}}}
